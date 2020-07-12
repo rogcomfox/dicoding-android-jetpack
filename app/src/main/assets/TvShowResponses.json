@@ -1,0 +1,84 @@
+{
+  "tvshows": [
+    {
+      "id": 1,
+      "title": "Arrow",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 7.1,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/17057899/p17057899_b_v8_ac.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Iron Fist",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 7.3,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/13361406/p13361406_b_v8_ad.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Doom Patrol",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 5.4,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/16556989/p16556989_b_v8_ab.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Dragon Ball",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 8.5,
+      "release": "2013-2-11",
+      "poster": "https://mmc.tirto.id/image/2020/04/20/dragon_ball_super_key_visual_ratio-16x9.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Naruto Shippuden",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 8.1,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/7842736/p7842736_b_v8_ab.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Flash",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 9.3,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/17057806/p17057806_b_v8_ac.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Walking Dead",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 5.9,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/17149689/p17149689_b_v8_ac.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Gotham",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 6.8,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/16190252/p16190252_b_v8_aa.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Grey Anatomy",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 7.5,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/17114349/p17114349_b_v8_aa.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Daredevil",
+      "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+      "rating": 5.1,
+      "release": "2013-2-11",
+      "poster": "https://www.gstatic.com/tv/thumb/tvbanners/15981357/p15981357_b_v8_ab.jpg"
+    }
+  ]
+}

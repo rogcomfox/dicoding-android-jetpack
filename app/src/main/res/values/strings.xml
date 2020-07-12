@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tv_show">Tv Show</string>
+    <string name="tab_fav_movie">Favorite Movie</string>
+    <string name="tab_fav_tv_show">Favorite Tv Show</string>
+    <string name="tv_item_title">Movie Title</string>
+    <string name="tv_item_release">29–09–2013</string>
+    <string name="tv_item_rating">5.2</string>
+    <string name="tv_item_overview">Overview</string>
+    <string name="tv_item_overview_value">Overview value</string>
+    <string name="tv_loading">Loading..</string>
+    <string name="menu_item_favorite">Favorite</string>
+    <string name="error">Terjadi kesalahan</string>
+    <string name="tv_nothing_favorite">Sepertinya anda belum pernah menambahkan item ke favorit</string>
+</resources>

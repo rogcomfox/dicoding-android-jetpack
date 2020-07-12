@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "A Start is Born",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 7.5,
+      "release": "2019-10-12",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/A_Star_is_Born.png"
+    },
+    {
+      "id": 2,
+      "title": "Alita: The Battle Angel",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 5.8,
+      "release": "2019-10-12",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxo7Naxu0tjuSEZ9_faYL--aWjx8V5TKr4q2YeenYKXXik-T5P"
+    },
+    {
+      "id": 3,
+      "title": "Aquaman",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 8.8,
+      "release": "2019-10-12",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGD0SFM5MwzWdQtgA5ssjVmHofb2ajsLcFR0q3pWBNLwf90D_a"
+    },
+    {
+      "id": 4,
+      "title": "Bohemian",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 7.2,
+      "release": "2019-10-12",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Creed",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 6.1,
+      "release": "2019-10-12",
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkYxKi3vFoga2SrzgQLaHP55yErfQcCSfEK2lGGu7ToBBzSJiQ"
+    },
+    {
+      "id": 6,
+      "title": "Mary Queen of Scots",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 8.3,
+      "release": "2019-10-12",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYhm9_IdBGFx49To5Xmzn6okuJgO9hx5QvpE53Wm0tWQQN_5s"
+    },
+    {
+      "id": 7,
+      "title": "Cold Pursuit",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 4.8,
+      "release": "2019-10-12",
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrt-1fcBvW2N07OXR9bQvsQD1mdkMyEGREtAZYUcND89eSut1a"
+    },
+    {
+      "id": 8,
+      "title": "Infinity War",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 8.9,
+      "release": "2019-10-12",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/r_avengers_infinitywar_nowplaying_mobile_4874f720.jpeg?region=0,0,640,571"
+    },
+    {
+      "id": 9,
+      "title": "Glass",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 6.8,
+      "release": "2019-10-12",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIldaxHYFTreaBLFyuYMlj3QWfTCUPc2v8VJkrN-9DJdnSxwFW"
+    },
+    {
+      "id": 10,
+      "title": "Mortal Engines",
+      "overview": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "rating": 7.3,
+      "release": "2019-10-12",
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBaUnEiR3_ECzj1M938GGRDFJkNoBXa6--quVI1ww_-h3GJUmu"
+    }
+  ]
+}
